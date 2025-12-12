@@ -5,7 +5,7 @@ instance of [Overleaf](https://overleaf.com). This toolkit will help you to set 
 
 The [Developer wiki](https://github.com/overleaf/overleaf/wiki) contains further documentation on releases, features and other configuration elements.
 
-
+ 
 ## Getting Started
 
 Clone this repository locally:
